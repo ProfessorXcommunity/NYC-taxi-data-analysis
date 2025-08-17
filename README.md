@@ -6,14 +6,14 @@ An end-to-end data analytics project that uncovers demand patterns, operational 
 
 ## 📋 Table of Contents
 
-1. [Project Overview](#project-overview)  
-2. [Data & Tools](#data--tools)  
-3. [Methodology](#methodology)  
-4. [Key Findings](#key-findings)  
-5. [Visual Highlights](#visual-highlights)  
-6. [Recommendations](#recommendations)  
-7. [Installation & Usage](#installation--usage)  
-8. [Contribute & Contact](#contribute--contact)  
+1. [Project Overview] 
+2. [Data & Tools] 
+3. [Methodology]  
+4. [Key Findings] 
+5. [Visual Highlights]  
+6. [Recommendations]  
+7. [Installation & Usage] 
+8. [Contribute & Contact]
 
 ***
 
