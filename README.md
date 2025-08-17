@@ -6,14 +6,14 @@ An end-to-end data analytics project that uncovers demand patterns, operational 
 
 ## 📋 Table of Contents
 
-1. [Project Overview] 
-2. [Data & Tools] 
-3. [Methodology]  
-4. [Key Findings] 
-5. [Visual Highlights]  
-6. [Recommendations]  
-7. [Installation & Usage] 
-8. [Contribute & Contact]
+1. Project Overview
+2. Data & Tools
+3. Methodology 
+4. Key Findings
+5. Visual Highlights
+6. Recommendations
+7. Installation & Usage
+8. Contribute & Contact
 
 ***
 
@@ -111,8 +111,8 @@ Open **`NYC_Taxi_Analysis.ipynb`** to explore data preprocessing, analysis steps
 ## 🤝 Contribute & Contact
 
 Feedback, issues, or collaboration ideas welcome!  
-- GitHub: https://github.com/yourusername/nyc-taxi-data-analysis  
-- Email: your.email@example.com  
+- GitHub: https://github.com/ProfessorXcommunity/nyc-taxi-data-analysis  
+- Email: arijitkumar2912@gmail.com
 
 ***
 
